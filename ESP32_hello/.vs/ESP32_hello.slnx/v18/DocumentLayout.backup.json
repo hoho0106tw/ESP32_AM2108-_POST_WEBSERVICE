@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hoho0106tw\\source\\repos\\ESP32_hello\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E5835B21-88EC-49EA-B8ED-3C0763E65520}|ESP32_hello\\ESP32_hello.csproj|c:\\users\\hoho0106tw\\source\\repos\\esp32_hello\\esp32_hello\\controllers\\receivecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5835B21-88EC-49EA-B8ED-3C0763E65520}|ESP32_hello\\ESP32_hello.csproj|solutionrelative:esp32_hello\\controllers\\receivecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5835B21-88EC-49EA-B8ED-3C0763E65520}|ESP32_hello\\ESP32_hello.csproj|c:\\users\\hoho0106tw\\source\\repos\\esp32_hello\\esp32_hello\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5835B21-88EC-49EA-B8ED-3C0763E65520}|ESP32_hello\\ESP32_hello.csproj|solutionrelative:esp32_hello\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5835B21-88EC-49EA-B8ED-3C0763E65520}|ESP32_hello\\ESP32_hello.csproj|c:\\users\\hoho0106tw\\source\\repos\\esp32_hello\\esp32_hello\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5835B21-88EC-49EA-B8ED-3C0763E65520}|ESP32_hello\\ESP32_hello.csproj|solutionrelative:esp32_hello\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5835B21-88EC-49EA-B8ED-3C0763E65520}|ESP32_hello\\ESP32_hello.csproj|c:\\users\\hoho0106tw\\source\\repos\\esp32_hello\\esp32_hello\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5835B21-88EC-49EA-B8ED-3C0763E65520}|ESP32_hello\\ESP32_hello.csproj|solutionrelative:esp32_hello\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5835B21-88EC-49EA-B8ED-3C0763E65520}|ESP32_hello\\ESP32_hello.csproj|c:\\users\\hoho0106tw\\source\\repos\\esp32_hello\\esp32_hello\\esp32_hello.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{E5835B21-88EC-49EA-B8ED-3C0763E65520}|ESP32_hello\\ESP32_hello.csproj|solutionrelative:esp32_hello\\esp32_hello.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ReceiveController.cs",
+              "DocumentMoniker": "C:\\Users\\hoho0106tw\\source\\repos\\ESP32_hello\\ESP32_hello\\Controllers\\ReceiveController.cs",
+              "RelativeDocumentMoniker": "ESP32_hello\\Controllers\\ReceiveController.cs",
+              "ToolTip": "C:\\Users\\hoho0106tw\\source\\repos\\ESP32_hello\\ESP32_hello\\Controllers\\ReceiveController.cs",
+              "RelativeToolTip": "ESP32_hello\\Controllers\\ReceiveController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAYwE0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T07:53:49.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\hoho0106tw\\source\\repos\\ESP32_hello\\ESP32_hello\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "ESP32_hello\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\hoho0106tw\\source\\repos\\ESP32_hello\\ESP32_hello\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "ESP32_hello\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T07:21:35.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\hoho0106tw\\source\\repos\\ESP32_hello\\ESP32_hello\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "ESP32_hello\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\hoho0106tw\\source\\repos\\ESP32_hello\\ESP32_hello\\WeatherForecast.cs",
+              "RelativeToolTip": "ESP32_hello\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T07:00:26.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ESP32_hello.http",
+              "DocumentMoniker": "C:\\Users\\hoho0106tw\\source\\repos\\ESP32_hello\\ESP32_hello\\ESP32_hello.http",
+              "RelativeDocumentMoniker": "ESP32_hello\\ESP32_hello.http",
+              "ToolTip": "C:\\Users\\hoho0106tw\\source\\repos\\ESP32_hello\\ESP32_hello\\ESP32_hello.http",
+              "RelativeToolTip": "ESP32_hello\\ESP32_hello.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2026-11-09T07:00:43.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hoho0106tw\\source\\repos\\ESP32_hello\\ESP32_hello\\Program.cs",
+              "RelativeDocumentMoniker": "ESP32_hello\\Program.cs",
+              "ToolTip": "C:\\Users\\hoho0106tw\\source\\repos\\ESP32_hello\\ESP32_hello\\Program.cs",
+              "RelativeToolTip": "ESP32_hello\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T07:00:25.027Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

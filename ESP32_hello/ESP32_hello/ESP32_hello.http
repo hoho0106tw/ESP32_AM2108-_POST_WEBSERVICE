@@ -1,0 +1,26 @@
+@ESP32_hello_HostAddress = http://localhost:5042
+
+GET {{ESP32_hello_HostAddress}}/api/receive?temp=25.5&humid=60&time=2026-11-09%2014:52:00
+Accept: text/plain
+
+###
+
+GET {{ESP32_hello_HostAddress}}/api/receive?temp=25.5&humid=60
+Accept: text/plain
+
+###
+
+GET {{ESP32_hello_HostAddress}}/api/receive?msg=HELLO&time=2026-11-09%2014:52:00
+Accept: text/plain
+
+###
+
+GET {{ESP32_hello_HostAddress}}/
+Accept: text/plain
+
+###
+
+GET {{ESP32_hello_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

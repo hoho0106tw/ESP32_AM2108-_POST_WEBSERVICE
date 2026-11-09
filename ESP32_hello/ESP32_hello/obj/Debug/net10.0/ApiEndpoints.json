@@ -1,0 +1,95 @@
+[
+  {
+    "ContainingType": "ESP32_hello.Controllers.ReceiveController",
+    "Method": "DefaultHello",
+    "RelativePath": "",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ESP32_hello.Controllers.ReceiveController",
+    "Method": "ProcessData",
+    "RelativePath": "api/receive",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "temp",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "humid",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "time",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "msg",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ESP32_hello.Controllers.ReceiveController",
+    "Method": "ProcessData",
+    "RelativePath": "api/receive",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "temp",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "humid",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "time",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "msg",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ESP32_hello.Controllers.WeatherForecastController",
+    "Method": "Get",
+    "RelativePath": "WeatherForecast",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[ESP32_hello.WeatherForecast, ESP32_hello, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "GetWeatherForecast"
+  }
+]
